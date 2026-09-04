@@ -144,3 +144,12 @@ Founder & Lead Architect
 📧 **`chitara.trading@proton.me`**
 
 *Notice: Access to full source code and the in-depth Vendor Due Diligence Report is granted strictly following execution of a standard Mutual NDA.*
+
+---
+
+## 8. Portfolio & Sister Technologies
+
+MIMARIO is developed alongside:
+* 🚀 **[VELQIRIS](https://github.com/mimario-technologies/velqiris-showcase)** — Institutional Web3 Financial Intelligence Platform (5 Custom Rust Canisters, On-Chain Consensus, React 19).
+
+Both assets are maintained under **[MIMARIO Technologies](https://github.com/mimario-technologies)**.
